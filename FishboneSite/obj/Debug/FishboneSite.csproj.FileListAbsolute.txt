@@ -1,0 +1,6 @@
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\bin\FishboneSite.dll.config
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\bin\FishboneSite.dll
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\bin\FishboneSite.pdb
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\obj\Debug\FishboneSite.csprojResolveAssemblyReference.cache
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\obj\Debug\FishboneSite.dll
+G:\SotUni\JS-Aplication\exam\FishboneSite\FishboneSite\obj\Debug\FishboneSite.pdb

@@ -1,0 +1,23 @@
+<header>
+    <img class="img-header" src="imgs/trash.png" width="50px" />
+    <h1 class="site-header">Products</h1>
+    <nav id="menu">
+        <ul>
+            <li class="nav-button"><a href="#/wellcome-user">Home</a></li>
+            <li class="nav-button"><a href="#/products">Products</a></li>
+            <li class="nav-button"><a href="#/add-product">Add Product</a></li>
+            <li class="nav-button"><a href="#/logout">Logout</a></li>
+        </ul>
+    </nav>
+</header>
+<div>
+    <!-- Welcome user -->
+    <section>
+        <div class="welcome-message">
+            <header class="main-header">Welcome, <span id="usernameGreatings">friend</span>!</header>
+        </div>
+    </section>
+    <script>
+        $('#usernameGreatings').text(sessionStorage.username);
+    </script>
+</div>
